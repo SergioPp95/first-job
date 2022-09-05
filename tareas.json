@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Resolver Playground de la clase",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Avanzar una clase en el playground",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Armar una aplicacion de tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Entrenar a la mañana",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Resolver 5 ejercicios de codewars",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "codewars",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "trapear",
+        "estado": "pendiente"
+    }
+]   
